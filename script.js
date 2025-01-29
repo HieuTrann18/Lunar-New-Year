@@ -80,7 +80,7 @@ function handleClickLixi() {
   ];
 
   // file qr
-  const filePathQR = './assets/qr/qr.jpg';
+  const filePathQR = './assets/qr/qrj.jpg';
   // có qr hay không
   const showQR = true;
 
