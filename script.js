@@ -75,8 +75,8 @@ function handleClickLixi() {
     'Mình xin lì xì 💲',
     'Xin 10k nhé 💵',
     'Xin 20k nhé 💶',
-    'Xin 30k nhé 💷',
-    'Xin 50k nhé 💸',
+    'Có cái nịt nhé 💷',
+    'Chúc bạn may mắn lần sau 💸',
   ];
 
   // file qr
